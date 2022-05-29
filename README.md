@@ -4,9 +4,13 @@
 Centro Universitario De Ciencias Exactas e Ingenieria
 
 Seminario de Solucion de problemas de Traductores 2
+
 Profesor: Dr Michel Emanuel Lopez Franco
+
 Sección: D02
+
 Alumno: Jesus Fernando Garcia Santos
+
 Codigo: 213623791
 
 ## Introduccion
